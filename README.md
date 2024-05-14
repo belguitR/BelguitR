@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/belguitR/BelguitR/blob/main/441224672_974950327625880_2364185209449401006_n.jpg?raw=true" alt="Rami Belguith" width="200">
+  <img src="https://github.com/belguitR/BelguitR/blob/main/441224672_974950327625880_2364185209449401006_n.jpg?raw=true" alt="Rami Belguith" width="300">
 </p>
+
 <h1 align="center">Hi there! 👋 I'm Rami Belguith</h1>
 <p align="center">
   Passionate Software Developer
