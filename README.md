@@ -12,7 +12,7 @@
 </p>
 
 
-# 🚀  Welcome to my GitHub! I'm a computer science student in France and  a passionate software dedicated to building personal projects and contributing to others, all while continually learning and improving in my craft..
+# 🚀  Welcome to my GitHub! I'm a computer science student in France and  a passionate software developer  dedicated to building personal projects and contributing to others, all while continually learning .
 
 # What I Do
 💻  I have a wealth of experience in full-stack development, adept at utilizing a variety of frameworks, languages, and databases to create robust and scalable applications.
