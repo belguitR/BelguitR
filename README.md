@@ -17,9 +17,11 @@
 # What I Do
 💻  I have a wealth of experience in full-stack development, adept at utilizing a variety of frameworks, languages, and databases to create robust and scalable applications.
 
-Frameworks: Flask - Angula - Spring Boot
+Frameworks: Flask - Angular - Spring Boot
 
-Languages: Python - TypeScript - C - C# - OCaml - Java
+Languages: Python - TypeScript - C - C# - OCaml - Java - JavaScript
+
+Web : HTML - CSS - XML technologies
 
 Databases : MySQL - Oracle
 
