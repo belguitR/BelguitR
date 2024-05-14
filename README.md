@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/belguitR/BelguitR/blob/main/441224672_974950327625880_2364185209449401006_n.jpg?raw=true" alt="Rami Belguith" width="300">
+  <img src="https://github.com/belguitR/BelguitR/blob/main/441224672_974950327625880_2364185209449401006_n.jpg?raw=true" alt="Rami Belguith" width="400">
 </p>
 
 <h1 align="center">Hi there! 👋 I'm Rami Belguith</h1>
@@ -10,8 +10,6 @@
   <a href="mailto:belguithrami150@gmail.com"><img src="https://img.shields.io/badge/Email-Drop%20Me%20A%20Message-blue?style=flat-square&logo=gmail" alt="Email"></a>
   <a href="https://www.linkedin.com/in/rami-belguith-a69830298/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
 </p>
-
-
 
 
 # 🚀  Welcome to my GitHub! I'm Rami Belguith, a passionate software dedicated to building personal projects and contributing to others, all while continually learning and improving in my craft..
