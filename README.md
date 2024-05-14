@@ -14,7 +14,7 @@
 
 
 
-# 🚀  Welcome to my GitHub I'm Rami Belguith, a passionate software developer enthusiastic  exploring new technologies. I'm dedicated to continuous learning and improvement in my craft.
+# 🚀  Welcome to my GitHub! I'm Rami Belguith, a passionate software developer enthusiastic about exploring new technologies. I'm dedicated to building personal projects and contributing to others, all while continually learning and improving in my craft..
 
 # What I Do
 💻  I have a wealth of experience in full-stack development, adept at utilizing a variety of frameworks, languages, and databases to create robust and scalable applications.
