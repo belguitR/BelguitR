@@ -6,9 +6,9 @@
   <a href="https://www.linkedin.com/in/rami-belguith-a69830298/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
-Frameworks: Flask - Angular - Spring Boot - Symfony
+Frameworks: Flask - Angular - Spring Boot - Symfony - Vue.js
 
-Languages: Python - TypeScript - C - C# - OCaml - Java - JavaScript - Vue.js
+Languages: Python - TypeScript - C - C# - OCaml - Java - JavaScript 
 
 Web : HTML - CSS - XML technologies
 
