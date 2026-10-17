@@ -1,15 +1,11 @@
-<h1 align="center"> Rami Belguith</h1>
-<p align="center">
- Software Developer
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/rami-belguith-a69830298/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-</p>
+# Rami Belguith
 
-Frameworks: Flask - Angular - Spring Boot - Symfony - Vue.js
+**Software Engineer | Backend & Cloud**
 
-Languages: Python - TypeScript - C - C# - OCaml - Java - JavaScript 
+Based in Grenoble, France.
 
-Web : HTML - CSS - XML technologies
+Currently working on backend services and distributed systems at Atraltech while completing a Master's in MIAGE at Université Grenoble Alpes.
 
-Databases : MySQL - Oracle
+Working primarily with Python, Java and Go, with experience in APIs, microservices, cloud infrastructure and software testing.
+
+Interested in distributed systems, software architecture and cloud engineering.
