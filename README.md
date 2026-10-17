@@ -1,11 +1,9 @@
 # Rami Belguith
 
-**Software Engineer | Backend & Cloud**
+**Software Engineer · Backend & Cloud**
 
-Based in Grenoble, France.
+I build APIs and distributed services with Python, Java and Go. At Atraltech, I work on a real-time voice platform, including service communication, testing and Azure delivery with Terraform and Docker.
 
-Currently working on backend services and distributed systems at Atraltech while completing a Master's in MIAGE at Université Grenoble Alpes.
+I am completing a Master's in MIAGE at Université Grenoble Alpes.
 
-Working primarily with Python, Java and Go, with experience in APIs, microservices, cloud infrastructure and software testing.
-
-Interested in distributed systems, software architecture and cloud engineering.
+Grenoble, France · **Open to relocation** · Available from September 2027
